@@ -8,8 +8,11 @@ O BLUE é uma iniciativa inovadora projetada para monitorar a qualidade da água
 Papel do Arduino com Sonar no Projeto BLUE 
 
 A combinação de Arduino com sonar no contexto do monitoramento ambiental e qualidade da água traz diversas vantagens: 
+
 Custo-Efetividade: Soluções baseadas em Arduino são relativamente baratas e podem ser facilmente implementadas em grande escala. 
+
 Adaptabilidade: A flexibilidade do Arduino permite a integração de uma ampla gama de sensores, incluindo sonares, para diversas aplicações ambientais. 
+
 Precisão e Confiabilidade: Sensores de sonar fornecem dados precisos sobre o ambiente subaquático, essenciais para uma análise detalhada e decisões informadas. 
 
 # Link Wokwi:
