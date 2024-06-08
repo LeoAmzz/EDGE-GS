@@ -1,5 +1,10 @@
 # EDGE-GS
 
+# GRUPO
+Leonardo Rodrigues Amzehnhoff - RM553372
+Daniel Wahba Krasilchik - RM552768
+Gustavo Bonani Favero Marcos - RM553493
+
 # Descrição:
 Descrição do Projeto BLUE 
 
